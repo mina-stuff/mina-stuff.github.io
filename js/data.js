@@ -141,7 +141,7 @@ var data = {
       art_url: "https://twitter.com/Mina_776_/status/1787100656811270313/",
       desc: "For @PEve862",
       date_str: "May 5, 2025",
-      tags: ["OC Art"],
+      tags: ["oc"],
       hidden: false
     },
   ]
