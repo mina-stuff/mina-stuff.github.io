@@ -96,7 +96,7 @@ body {
 	background-color: #855977;
 }
 .modal-header {
-	border-bottom: 1px solid #797E96;
+	border-bottom: 1px solid #ab95a4;
 }
 .modal-footer {
 	display: block;
@@ -240,7 +240,7 @@ a:hover, a:active {
 		column-count: 2;
 	}
 	#gallery-container {
-		border-top: 1px solid #797E96;
+		border-top: 1px solid #ab95a4;
 	}
 	#sidebar {
 		border-bottom-left-radius: 0;
@@ -288,7 +288,7 @@ a:hover, a:active {
 		column-count: 3;
 	}
 	#gallery-container {
-		border-top: 1px solid #797E96;
+		border-top: 1px solid #ab95a4;
 	}
 	.title-underscore-container {
 		margin-top: 0;
@@ -336,7 +336,7 @@ a:hover, a:active {
 		column-count: 3;
 	}
 	.title-underscore-container {
-		border-bottom: 1px solid #797E96;
+		border-bottom: 1px solid #ab95a4;
 		width: 90%;
 		margin-left: 5%;
 	}
