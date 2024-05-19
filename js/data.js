@@ -77,7 +77,7 @@ var data = {
       title: "Rally for Gaza 1",
       artist: "DaphneComics",
       artist_url: "https://twitter.com/DaphneComics",
-      art_url: null,
+      art_url: "https://twitter.com/Mina_776_/status/1768834297396629652",
       desc: "Reward for participating in the Rally for Gaza fundraiser event.",
       date_str: "March 15, 2024",
       tags: [],
