@@ -12,6 +12,18 @@ var data = {
       hidden: false
     },
     {
+      src: ["https://pbs.twimg.com/media/GN_l1QCWEAAwLt_?format=jpg&name=large"],
+      thumbnail: "https://pbs.twimg.com/media/GN_l1QCWEAAwLt_?format=jpg&name=large",
+      title: "Rally for Gaza 4",
+      artist: "Ciarre",
+      artist_url: "https://x.com/ciarre_",
+      art_url: "https://x.com/ciarre_/status/1792616278244430239",
+      desc: "Reward for donating to the Palestine Children's Relief Fund.",
+      date_str: "May 20, 2024",
+      tags: [],
+      hidden: false
+    },
+    {
       src: ["https://i.imgur.com/VKtQc1Z.jpeg"],
       thumbnail: "https://i.imgur.com/VKtQc1Z.jpeg",
       title: "Sword Lilies",
@@ -131,7 +143,6 @@ var data = {
       tags: [],
       hidden: false
     },
-
     {
       src: ["https://pbs.twimg.com/media/GM0Ok8qbcAAYRym?format=jpg&name=medium"],
       thumbnail: "https://pbs.twimg.com/media/GM0Ok8qbcAAYRym?format=jpg&name=medium",
