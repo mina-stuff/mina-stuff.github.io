@@ -120,8 +120,8 @@ var data = {
       hidden: false
     },
     {
-      src: ["https://cdn.discordapp.com/attachments/1172406226273964062/1224019610802589726/08efcc8980edfb07.png?ex=664b6e18&is=664a1c98&hm=e232d73650b10d8b26d7695d6b1fb4a08291017121c158e6d113a4a823877d3e&"],
-      thumbnail: "https://cdn.discordapp.com/attachments/1172406226273964062/1224019610802589726/08efcc8980edfb07.png?ex=664b6e18&is=664a1c98&hm=e232d73650b10d8b26d7695d6b1fb4a08291017121c158e6d113a4a823877d3e&",
+      src: ["https://i.imgur.com/mZUJoNJ.png"],
+      thumbnail: "https://i.imgur.com/mZUJoNJ.png",
       title: "Seren (OC)",
       artist: "null",
       artist_url: null,
