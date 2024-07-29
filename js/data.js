@@ -1,5 +1,44 @@
 var data = {
-  images: [{
+  images: [
+  {
+      src: ["https://pbs.twimg.com/media/GTlzHpgXEAA3-wH?format=jpg&name=large", "https://pbs.twimg.com/media/GTlzHpeW0AAaTwb?format=jpg&name=large"],
+      thumbnail: "https://pbs.twimg.com/media/GTlzHpgXEAA3-wH?format=jpg&name=large",
+      title: "Lugh & Seren",
+      artist: "Sirotsumesou",
+      artist_url: "https://x.com/sirotsumesou_7",
+      art_url: "https://x.com/PEve862/status/1817613614792012227",
+      desc: "Gift from @PEve862",
+      date_str: "July 28, 2024",
+      tags: [],
+      hidden: false
+    },
+    {
+      src: ["https://pbs.twimg.com/media/GTq-I-5aQAINwgb?format=jpg&name=small"],
+      thumbnail: "https://pbs.twimg.com/media/GTq-I-5aQAINwgb?format=jpg&name=small",
+      title: "Seren 2",
+      artist: "Retort Musica",
+      artist_url: "https://x.com/retort_musica",
+      art_url: "https://x.com/Mina_776_/status/1817974463205622152",
+      desc: "",
+      date_str: "July 29, 2024",
+      tags: [],
+      hidden: false
+    },
+
+        {
+      src: ["https://pbs.twimg.com/media/GTQRlpXaYAESazS?format=jpg&name=900x900"],
+      thumbnail: "https://pbs.twimg.com/media/GTQRlpXaYAESazS?format=jpg&name=900x900",
+      title: "Adult Seren",
+      artist: "Mina",
+      artist_url: "https://x.com/Mina_776_",
+      art_url: "https://x.com/Mina_776_/status/1816095889687245264",
+      desc: "Gen3 Ensemble bonus illustration.",
+      date_str: "July 24, 2024",
+      tags: ["oc"],
+      hidden: false
+    },
+
+    {
       src: ["https://i.redd.it/6sgv0lp3hcpc1.jpeg"],
       thumbnail: "https://i.redd.it/6sgv0lp3hcpc1.jpeg",
       title: "Mareeta & Ced",
@@ -123,8 +162,8 @@ var data = {
       src: ["https://i.imgur.com/mZUJoNJ.png"],
       thumbnail: "https://i.imgur.com/mZUJoNJ.png",
       title: "Seren (OC)",
-      artist: "null",
-      artist_url: null,
+      artist: "Anne",
+      artist_url: "https://twitter.com/uneasywolf",
       art_url: null,
       desc: "Gift from @MrTalkingDinosaur",
       date_str: "March 31, 2024",
@@ -154,6 +193,6 @@ var data = {
       date_str: "May 5, 2025",
       tags: ["oc"],
       hidden: false
-    },
+    }
   ]
 };
